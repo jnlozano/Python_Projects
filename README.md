@@ -6,3 +6,7 @@ Modified version of common hangman game in Python. Includes word list from MIT (
 
 
 Ideas sourced from https://data-flair.training/
+
+
+### DS Project Lab HW.ipynb
+Homework assignment for a Data Science Lab provided by NAVWAR. Introductionary methods and implications of machine learning.
